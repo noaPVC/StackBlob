@@ -1,5 +1,11 @@
 # StackBlob
 
+## Info
+
+This project is developed as the base of a school project. It resembles a clone of the WebApplication StackOverflow. Just our version :)
+
+## Help
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
 ## Development server
